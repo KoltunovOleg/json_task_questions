@@ -1,0 +1,47 @@
+{
+  "name": "TEST js",
+  "questions": [
+      {
+          "text": "what is js?",
+          "variants": [
+              {
+                  "id": 1,
+                  "value": "Program language"
+              },
+              {
+                  "id": 2,
+                  "value":"Human language"
+              }
+          ],
+          "correct": 1
+      },
+      {
+          "text": "what is year now?",
+          "correct": "2017"
+      },
+      {
+          "text": "what preprocessors do you know?",
+          "variants": [
+              {
+                  "id": 1,
+                  "value": "SASS"
+              },
+              {
+                  "id": 2,
+                  "value":"LESS"
+              },
+              {
+                  "id": 3,
+                  "value":"SCSS"
+              }
+          ],
+          "correct": [1,2]
+      },
+      {
+          "text": "what is year now?",
+          "correct": "2017"
+      }
+  ]
+}
+
+
